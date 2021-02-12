@@ -85,6 +85,9 @@ var lang = {first: "html",
             fourth: "Front End", 
 			fullName: function() {
 	return this.second + " " + this.fourth 
-}
-};
+}};
 console.log(lang.fullName());
+
+
+var cars = ["ford", "bmw"];
+console.log(cars[0]);
