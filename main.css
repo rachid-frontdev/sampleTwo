@@ -1,0 +1,90 @@
+
+body {
+	font-family: 'arial', cursive;
+	margin:0;padding:0;
+}
+
+.content {margin-left:590px;}
+
+button {
+	border:none;
+	color:white;
+	background:#353535;
+padding:10px;
+	border-radius:4px;
+	margin-left:122px;
+
+}
+
+p#test {text-align:center;}
+
+footer {background:#212121;
+		width:100%;height:auto;
+		position:relative;
+		top:400px;
+	}
+
+h5 {
+color:#8e8e8ef0;
+display:inline-block;
+margin-left:120px;
+}
+
+a {
+color:#8e8e8ef0;
+text-decoration:none;margin-left:120px;
+
+}
+a:active {
+color:blue;
+}
+
+div.h-foot{display:inline-block;border-bottom:1px solid #f3f3f3;
+position:relative;left:10%;
+}
+
+.project button {border-radius:0px;
+width:240px;
+margin:20px;
+display:block;
+}
+
+button#p-orange {
+background:#c8553b;
+
+}
+div.c-footer p, div.c-footer h5 {
+color:#f4f4f4;
+width:411px;
+position:relative;
+ left: 436px;
+ bottom: 64px;
+line-height:26px;
+}
+div.c-footer h5 {
+    position: absolute;
+    top: 107px;
+    left: 900px;}
+
+.project {
+    position: relative;
+    top: 54px; }
+
+input {padding:14px;position:absolute;opacity:50%;top:187px;left:1020px;width:221px;}
+
+div.c-footer button {   
+ position: absolute;
+    top: 187px;
+    width: 140px;
+    left: 1104px;
+    border-radius: 0px;
+    padding: 16px;}
+
+div.footer {
+background:orange;
+padding:20px;
+text-align:center;
+text-transform:capitalize;
+
+
+}
